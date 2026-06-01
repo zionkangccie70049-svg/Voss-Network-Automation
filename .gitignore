@@ -1,0 +1,11 @@
+# Real device inventory — contains internal IPs and hostnames
+inventory.py
+
+# Backup output files
+*.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
